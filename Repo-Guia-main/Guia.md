@@ -6,12 +6,12 @@ en caso de haber mas de 4 integrantes o menos, repetir roles o asignar mas de 1 
 
 ```markdown
 # Equipo: Nombre del Equipo
-> Numero De Equipo: XX
-> Host: xxxxx-xxxxx
+> Numero De Equipo: 01
+> Host: PRACTICA-6-1
 
 ## Integrantes / Roles
-- xxxxx xxxxx (Product Owner) / Líder de Proyecto
-- xxxxx xxxxx Full-Stack Developer (Programación)
-- xxxxx xxxxx DevOps (Operaciones e Infraestructura)
-- xxxxx xxxxx (QA) / Tester
+- Daniel Gerardo (Product Owner) / Líder de Proyecto
+- Jaime Hernandez Full-Stack Developer (Programación)
+- Francisco Valencia DevOps (Operaciones e Infraestructura)
+- Maritza Raudall (QA) / Tester
 ```
